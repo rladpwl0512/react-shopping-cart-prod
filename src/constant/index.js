@@ -5,6 +5,7 @@ const PATH = {
   ORDER: '/order',
   LOGIN: '/login',
   SIGNUP: '/signup',
+  EDIT_USERINFO: '/userinfo',
 };
 
 export {PATH};
